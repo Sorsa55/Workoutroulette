@@ -9,3 +9,9 @@ Lets make one thing clear: DONT MAKE SERIOUS WORKOUTS BASED ON THIS!
 This is just for having fun sometimes.
 
 I dont think i will touch this ever again.
+
+How to use(need nodejs)
+1. install
+2. cd to folder
+3. npm run dev
+4. use it there
