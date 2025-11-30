@@ -161,10 +161,7 @@ const Roulette = () => {
                 <path
                   key={index}
                   d={`M 100 100 L ${x1} ${y1} A 90 90 0 ${largeArcFlag} 1 ${x2} ${y2} Z`}
-                  fill={
-                    exercise.color === 'red' ? '#dc2626' :
-                    exercise.color === 'black' ? '#000000' : '#16a34a'
-                  }
+                  fill="#3b82f6"
                   stroke="#92400e"
                   strokeWidth="0.5"
                 />
@@ -225,10 +222,7 @@ const Roulette = () => {
                 <g key={index}>
                   <path
                     d={`M 100 100 L ${x1} ${y1} A 90 90 0 ${largeArcFlag} 1 ${x2} ${y2} Z`}
-                    fill={
-                      exercise.color === 'red' ? '#dc2626' :
-                      exercise.color === 'black' ? '#000000' : '#16a34a'
-                    }
+                    fill="#3b82f6"
                     stroke="#92400e"
                     strokeWidth="0.5"
                   />
