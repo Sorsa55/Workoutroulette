@@ -15,5 +15,5 @@ How to use(need nodejs)
 2. cd to folder
 3. npm run dev
 4. use it there
-
+or just https://workoutroulette.vercel.app note: there is no mobile version currently and im not sure if there will be.
 <img width="1878" height="920" alt="image" src="https://github.com/user-attachments/assets/84e9a170-1348-4d0d-b70b-b56106023af4" />
