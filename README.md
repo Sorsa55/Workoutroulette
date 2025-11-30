@@ -7,3 +7,5 @@ and if you want ammount of sets you do that.
 
 Lets make one thing clear: DONT MAKE SERIOUS WORKOUTS BASED ON THIS! 
 This is just for having fun sometimes.
+
+I dont think i will touch this ever again.
